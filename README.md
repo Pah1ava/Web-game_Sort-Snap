@@ -11,4 +11,5 @@ A short mobile sorting puzzle. Drag an object into the bin with the matching **s
 - **Feedback:** Correct drops snap and advance progress. Wrong drops return without a penalty.
 - **End:** Completion screen with replay and next-level actions.
 
-The game uses inline SVG shapes and CSS; no third-party assets, frameworks, analytics, or network calls. The illustrative portfolio PDF is a concept document; this repository is the playable build.
+The game uses inline SVG shapes and CSS; 
+This repository is the playable build.
